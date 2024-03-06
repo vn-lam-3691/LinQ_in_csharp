@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\C_sharp\\LinQ_Vehicle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A01501E8-0153-413F-AEA9-59D64A452571}|LinQ_Vehicle\\LinQ_Vehicle.csproj|d:\\workspace\\c_sharp\\linq_vehicle\\linq_vehicle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01501E8-0153-413F-AEA9-59D64A452571}|LinQ_Vehicle\\LinQ_Vehicle.csproj|solutionrelative:linq_vehicle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01501E8-0153-413F-AEA9-59D64A452571}|LinQ_Vehicle\\LinQ_Vehicle.csproj|d:\\workspace\\c_sharp\\linq_vehicle\\linq_vehicle\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01501E8-0153-413F-AEA9-59D64A452571}|LinQ_Vehicle\\LinQ_Vehicle.csproj|solutionrelative:linq_vehicle\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01501E8-0153-413F-AEA9-59D64A452571}|LinQ_Vehicle\\LinQ_Vehicle.csproj|d:\\workspace\\c_sharp\\linq_vehicle\\linq_vehicle\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01501E8-0153-413F-AEA9-59D64A452571}|LinQ_Vehicle\\LinQ_Vehicle.csproj|solutionrelative:linq_vehicle\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01501E8-0153-413F-AEA9-59D64A452571}|LinQ_Vehicle\\LinQ_Vehicle.csproj|d:\\workspace\\c_sharp\\linq_vehicle\\linq_vehicle\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01501E8-0153-413F-AEA9-59D64A452571}|LinQ_Vehicle\\LinQ_Vehicle.csproj|solutionrelative:linq_vehicle\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "D:\\Workspace\\C_sharp\\LinQ_Vehicle\\LinQ_Vehicle\\Truck.cs",
+              "RelativeDocumentMoniker": "LinQ_Vehicle\\Truck.cs",
+              "ToolTip": "D:\\Workspace\\C_sharp\\LinQ_Vehicle\\LinQ_Vehicle\\Truck.cs",
+              "RelativeToolTip": "LinQ_Vehicle\\Truck.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T14:15:21.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Workspace\\C_sharp\\LinQ_Vehicle\\LinQ_Vehicle\\Car.cs",
+              "RelativeDocumentMoniker": "LinQ_Vehicle\\Car.cs",
+              "ToolTip": "D:\\Workspace\\C_sharp\\LinQ_Vehicle\\LinQ_Vehicle\\Car.cs",
+              "RelativeToolTip": "LinQ_Vehicle\\Car.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwBUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T14:15:13.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\Workspace\\C_sharp\\LinQ_Vehicle\\LinQ_Vehicle\\Vehicle.cs",
+              "RelativeDocumentMoniker": "LinQ_Vehicle\\Vehicle.cs",
+              "ToolTip": "D:\\Workspace\\C_sharp\\LinQ_Vehicle\\LinQ_Vehicle\\Vehicle.cs",
+              "RelativeToolTip": "LinQ_Vehicle\\Vehicle.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAiwCoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T14:11:17.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\C_sharp\\LinQ_Vehicle\\LinQ_Vehicle\\Program.cs",
+              "RelativeDocumentMoniker": "LinQ_Vehicle\\Program.cs",
+              "ToolTip": "D:\\Workspace\\C_sharp\\LinQ_Vehicle\\LinQ_Vehicle\\Program.cs",
+              "RelativeToolTip": "LinQ_Vehicle\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T14:10:50.512Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
